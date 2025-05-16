@@ -38,7 +38,7 @@ Technologies Used
 4. **Run the Application**
 
    ```bash
-   python library_app.py
+   python main.py
    ```
 
 📁 File Structure
