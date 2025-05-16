@@ -43,7 +43,7 @@ Technologies Used
 
 📁 File Structure
 
-* `library_app.py`: Main Python file containing the GUI code.
+* `main.py`: Main Python file containing the GUI code.
 
 
  🧑‍💻 Author
